@@ -16,3 +16,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.0.1 | 0 | 50 | 0 | Added tags
 | 1.0.2 | 0 | 60 | 0 | Added two npm buttons
 | 1.0.3 | 0 | 60 | 0 | Just updated the version number
+| 1.0.4 | 0 | 62 | 0 | Added eslint
