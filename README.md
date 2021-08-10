@@ -14,4 +14,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | :------- | -: | -: | -: | - |
 | 1.0.0 | 0 | 47 | 0 | Added package.json and index.js
 | 1.0.1 | 0 | 50 | 0 | Added tags
-
+| 1.0.2 | 0 | 60 | 0 | Added two npm buttons
