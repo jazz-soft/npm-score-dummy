@@ -1,0 +1,1 @@
+# npm-score-dummy
