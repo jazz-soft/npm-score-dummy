@@ -1,0 +1,23 @@
+{
+  "name": "npm-score-dummy",
+  "version": "1.0.0",
+  "description": "npm score dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazz-soft/npm-score-dummy.git"
+  },
+  "keywords": [
+    "score",
+    "dummy"
+  ],
+  "author": "jazz-soft (https://jazz-soft.net/)",
+  "bugs": {
+    "url": "https://github.com/jazz-soft/npm-score-dummy/issues"
+  },
+  "homepage": "https://github.com/jazz-soft/npm-score-dummy#readme",
+  "license": "MIT"
+}
