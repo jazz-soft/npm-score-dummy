@@ -24,3 +24,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.0.8 | 1 | 62 | 33 | Added .npmignore
 | 1.0.9 | 1 | 62 | 33 | Added GitHub Actions badge
 | 1.1.0 | 1 | 62 | 33 | Enabled GitHub action
+| 1.1.1 | 1 | 62 | 33 | Added dependency
