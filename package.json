@@ -1,11 +1,11 @@
 {
   "name": "npm-score-dummy",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "npm score dummy",
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node dummy"
   },
   "repository": {
     "type": "git",
