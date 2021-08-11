@@ -22,3 +22,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.0.6 | 1 | 62 | 33 | Added LICENSE.md
 | 1.0.7 | 1 | 62 | 33 | Added .gitignore and .gitattributes
 | 1.0.8 | 1 | 62 | 33 | Added .npmignore
+| 1.0.9 | 1 | 62 | 33 | Added GitHub Actions badge
