@@ -18,4 +18,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.0.3 | 0 | 60 | 0 | Just updated the version number
 | 1.0.4 | 0 | 62 | 0 | Added eslint
 | 1.0.5 | 0 | 62 | 33 | Added test
-| 1.0.1 | 1 | 62 | 33 | Added LICENSE.md
+| 1.0.6 | 1 | 62 | 33 | Added LICENSE.md
