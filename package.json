@@ -1,6 +1,6 @@
 {
   "name": "npm-score-dummy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "npm score dummy",
   "main": "index.js",
   "scripts": {
