@@ -29,3 +29,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.1.2 | 1 | 62 | 33 | Just updated the version number
 | 1.1.3 | 1 | 62 | 33 | Added RunKit badge
 | 1.1.4 | 1 | 89 | 33 | Added mocha test
+| 1.1.5 | 1 | 89 | 33 | Moved test to subdirectory
