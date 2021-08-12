@@ -1,4 +1,4 @@
-const dummy = require('.');
+const dummy = require('..');
 const assert = require('assert');
 
 describe('test', function() {
