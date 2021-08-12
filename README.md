@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/npm-score-dummy.svg)](https://www.npmjs.com/package/npm-score-dummy)
 [![npm](https://img.shields.io/npm/dt/npm-score-dummy.svg)](https://www.npmjs.com/package/npm-score-dummy)
 [![build](https://github.com/jazz-soft/npm-score-dummy/actions/workflows/build.yml/badge.svg)](https://github.com/jazz-soft/npm-score-dummy/actions)
+[![runKit](https://badge.runkitcdn.com/npm-score-dummy.svg)](https://npm.runkit.com/npm-score-dummy)
 
 Why do the newly created empty packages get 100% quality score,
 while the mature and useful packages don't?
