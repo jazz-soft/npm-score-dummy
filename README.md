@@ -27,3 +27,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.1.0 | 1 | 62 | 33 | Enabled GitHub action
 | 1.1.1 | 1 | 62 | 33 | Added dependency
 | 1.1.2 | 1 | 62 | 33 | Just updated the version number
+| 1.1.3 | 1 | 62 | 33 | Added RunKit badge
