@@ -34,3 +34,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.1.7 | 1 | 89 | 33 | Enabled coverage
 | 1.1.8 | 1 | 89 | 33 | Added coverage command
 | 1.1.9 | 1 | 62 | 33 | Updated .npmignore
+| 1.2.0 | 1 | 89 | 33 | Fixed .npmignore
