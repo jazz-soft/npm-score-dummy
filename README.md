@@ -37,3 +37,4 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.2.0 | 1 | 89 | 33 | Fixed .npmignore
 | 1.2.1 | 1 | 89 | 33 | Opened GitHub issue
 | 1.2.2 | 1 | 89 | 33 | Closed GitHub issue
+| 1.2.3 | 1 | 90 | 33 | Custom homepage link
