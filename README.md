@@ -38,3 +38,5 @@ Unfortunately, npm does not publish the scoring algorithm. Have to experiment...
 | 1.2.1 | 1 | 89 | 33 | Opened GitHub issue
 | 1.2.2 | 1 | 89 | 33 | Closed GitHub issue
 | 1.2.3 | 1 | 90 | 33 | Custom homepage link
+| 1.2.4 | 1 | 90 | 33 | Unignored .eslintrc.js
+| 1.2.5 | 1 | 90 | 33 | Reverted previous change
